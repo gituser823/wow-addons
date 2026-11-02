@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Session Tracker
+## Notes: Zeigt Gold und XP pro Stunde seit dem Login.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: SessionTrackerDB
+
+SessionTracker.lua

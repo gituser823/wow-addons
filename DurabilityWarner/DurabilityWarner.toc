@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Durability Warner
+## Notes: Warnt bei niedriger Haltbarkeit und repariert automatisch beim Händler.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: DurabilityWarnerDB
+
+DurabilityWarner.lua
