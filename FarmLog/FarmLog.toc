@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Farm Log
+## Notes: Zählt Beute, Gold und Zeit pro Zone und zeigt, welcher Farmspot sich lohnt.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: FarmLogDB
+
+FarmLog.lua

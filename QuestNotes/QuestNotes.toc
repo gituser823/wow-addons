@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Quest Notes
+## Notes: Quest-Fortschritt ansagen und Notizen mit Ort speichern.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: QuestNotesDB
+
+QuestNotes.lua

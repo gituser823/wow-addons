@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Mini Meter
+## Notes: Schlanke DPS-/HPS-Anzeige für die Gruppe.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: MiniMeterDB
+
+MiniMeter.lua

@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Alt Overview
+## Notes: Übersicht über Gold, Level, Berufe und Taschen aller Charaktere.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: AltOverviewDB
+
+AltOverview.lua

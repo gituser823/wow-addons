@@ -1,0 +1,8 @@
+## Interface: 110205, 50500, 40402, 11507
+## Title: Raid Check
+## Notes: Prüft Food, Flask und weitere Buffs der Gruppe vor dem Pull.
+## Author: gituser823
+## Version: 1.0
+## SavedVariables: RaidCheckDB
+
+RaidCheck.lua
